@@ -23,4 +23,4 @@ The email that will send you news: fetling@notifications.orsomething.noreply.git
 (I'm pretty sure that's the email for news)
 
 
-If you need more help. Contact me on Discord: fetling
+If you need more help. Contact me on Discord: kirbtrig
